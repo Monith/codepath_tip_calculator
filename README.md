@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of an implemented user story:
 
 ![GIF of tip calculator app] (tip_calc_gif.gif)
 
@@ -30,7 +30,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+For me the initial tutorial on how to build the bare bones app was great, but it was tricky to figure out how to add additional features without having a deep understanding of how xcode or swift works. I found myself getting lost in all the different views of xcode and was overwhelmed at times by the number of options or things you could tweak. I figure this is just the learning process of getting used to a new skill.
 
 ## License
 
